@@ -1,7 +1,5 @@
 # Eloquent HasManyDeep Contracts
 
-## Introduction
-
 This package provides contracts
 for [staudenmeir/eloquent-has-many-deep](https://github.com/staudenmeir/eloquent-has-many-deep):
 
